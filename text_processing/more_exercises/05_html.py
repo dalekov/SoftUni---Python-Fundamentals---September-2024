@@ -19,5 +19,5 @@ while True:
             print(f'    {comment}')
             print('</div>')
         break
-
+    # skara
     comments.append(comment)
